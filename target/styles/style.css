@@ -1,0 +1,70 @@
+/* 1442*754 */
+
+
+html {
+    font-family: "Edu AU VIC WA NT Pre";
+    background-color: white;
+}
+
+a{
+  color:blueviolet;
+  font-size: 25px;
+}
+  
+img#google {
+    width: 19%;
+    height: 11.6%;
+    position: absolute;
+    top: 18%;
+    left: 40.5%;
+}
+
+img#search {
+    width: 2%;
+    height: 3.5%;
+    position: absolute;
+    top: 36.3%;
+    left: 25%;
+    z-index: 2;    
+}
+
+img#littleguys {
+    width: 4.2%;
+    height: 3.2%;
+    position: absolute;
+    top: 36.2%;
+    left: 70.6%;
+    z-index: 2;     
+}
+
+img#searchwords {
+    cursor: text;
+    width: 12.3%;
+    height: 3.1%;
+    position: absolute;
+    top: 36.5%;
+    left: 27.55%;
+    z-index: 2;    
+}
+
+body{
+  border: 5px, solid black;
+  padding: 0px 100px 0px 10px;
+  margin: 10px 10px;
+  width: 50px;
+  height: 500px;
+}
+
+button{
+    cursor: text;
+    position:absolute;
+    border-radius: 65px;
+    border-color:rgba(247, 243, 243, 0.602);
+    border-style: groove;
+    background-color: white;
+    top: 34.74%;
+    left: 24.1%;
+    height: 6.6%;
+    width: 51.7%;
+    z-index: 1;
+}
