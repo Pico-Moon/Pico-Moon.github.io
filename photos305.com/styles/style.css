@@ -1,7 +1,30 @@
+
+body {
+    border-style: groove;
+    border-color: black;
+    border-width: 0px;
+}
+
 img {
-    width:100%;
+    position: absolute;
+    width: 87%;
+    left: 12%;
+    top: 0px;
+    border-style: groove;
+    border-color: black;
+    border-width: 0px;
 }
 
 h1:hover {
     color:blueviolet;
+}
+
+div#div {
+    position: relative;
+    border-style: groove;
+    border-color: black;
+    border-width: 0px;
+    width: 10%;
+    right: 50%;
+    left: 0px;
 }
