@@ -28,3 +28,9 @@ div#div {
     right: 50%;
     left: 0px;
 }
+
+div#loading {
+    position: absolute;
+    left: 45%;
+    top: 30%;
+}
