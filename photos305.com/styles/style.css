@@ -13,6 +13,7 @@ img {
     border-style: groove;
     border-color: black;
     border-width: 0px;
+    z-index: 2;
 }
 
 h1:hover {
@@ -32,5 +33,6 @@ div#div {
 div#loading {
     position: absolute;
     left: 45%;
-    top: 30%;
+    top: 40%;
+    z-index: 1;
 }
