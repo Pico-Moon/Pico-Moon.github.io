@@ -13,6 +13,7 @@ var h1 = {
 //-------------------------------------------
 
 function hh(a){
+    document.getElementById("img").innerHTML = "LOADING..."
     document.getElementById("img").innerHTML = a
 };
 
